@@ -38,14 +38,14 @@ ul {
     padding: 0;
 }
 
-#about-us {
+#intro {
     background-color: #000000; /* Background color where text is */
     color: #000000; /* Text color */
 }
 
-#intro a, #authors a, #third-party-libraries a, #DOWNLOAD a, #about-us a {
-    color: #C3073F; /* Link color */
-}
+    #intro a, #authors a, #third-party-libraries a, #about-us a, #DOWNLOAD a, #about-us a {
+        color: #C3073F; /* Link color */
+    }
 
     #intro div {
         max-width: 800px;
