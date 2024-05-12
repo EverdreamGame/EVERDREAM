@@ -43,9 +43,9 @@ ul {
     color: #000000; /* Text color */
 }
 
-    #intro a, #authors a, #third-party-libraries a {
-        color: #C3073F; /* Link color */
-    }
+#intro a, #authors a, #third-party-libraries a, #DOWNLOAD, #about-us {
+    color: #C3073F; /* Link color */
+}
 
     #intro div {
         max-width: 800px;
