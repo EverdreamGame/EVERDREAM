@@ -43,7 +43,7 @@ ul {
     color: #000000; /* Text color */
 }
 
-#intro a, #authors a, #third-party-libraries a, #DOWNLOAD, #about-us {
+#intro a, #authors a, #third-party-libraries a, #DOWNLOAD a, #about-us a {
     color: #C3073F; /* Link color */
 }
 
